@@ -1,1 +1,1 @@
-# Online_reservation_system
+# Number guessing game
